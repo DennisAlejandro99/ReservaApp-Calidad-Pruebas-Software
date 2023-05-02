@@ -1,0 +1,30 @@
+# archivos Gradle
+.gradle /
+construir /
+
+# Archivo de configuración local (ruta SDK, etc.)
+propiedades.locales
+
+# Archivos de registro/SO
+* .registro
+
+# Archivos y carpetas generados por Android Studio
+capturas /
+.externalNativeBuild /
+.cxx /
+* .apk
+salida.json
+
+#IntelliJ _
+* .iml
+.idea /
+
+# Archivos de almacén de claves
+* .jks
+* .almacén de claves
+
+# Servicios de Google (por ejemplo, API o Firebase)
+servicios-google.json
+
+# Perfiles de Android
+* .hprof
